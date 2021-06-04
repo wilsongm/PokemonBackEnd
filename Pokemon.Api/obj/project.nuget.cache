@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1iawTOkQHHyP9gXK9pvL9yx33Tg/juZ5fp640Dg4WS1lqD2m2cseGR8iBpe3t1RbwytOi6HcU8Hp2yTNxpJ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilson Gomez\\source\\repos\\Pokemon.Api\\Pokemon.Api\\Pokemon.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilson Gomez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
